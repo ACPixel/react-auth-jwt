@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"_css_loader"}],"generated":{"css":"body {\n  background-color: #555555;\n  color: white;\n  padding: 0;\n  margin: 0; }\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      "},"hash":"b4d150f7a691f17a305e11c92b91e750","cacheData":{}}

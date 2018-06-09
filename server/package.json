@@ -1,0 +1,15 @@
+{
+  "name": "projectserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.2",
+    "rethinkdbdash": "^2.3.31"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}

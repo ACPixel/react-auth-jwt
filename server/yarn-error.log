@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\acpsc\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init -i
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Geth;C:\WINDOWS\System32\OpenSSH\;C:\Users\acpsc\Anaconda3;C:\Users\acpsc\Anaconda3\Scripts;C:\Users\acpsc\Anaconda3\Library\bin;C:\Users\acpsc\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\acpsc\AppData\Local\Programs\Python\Python36-32\;C:\Users\acpsc\AppData\Local\Microsoft\WindowsApps;C:\Users\acpsc\AppData\Local\atom\bin;C:\Program Files\Heroku\bin;C:\Users\acpsc\AppData\Roaming\npm;C:\Users\acpsc\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Program Files\Microsoft VS Code\bin;%DASHLANE_DLL_DIR%;C:\Program Files\Microsoft VS Code Insiders\bin
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  7.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\acpsc\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:131036:13)
+      at emitNone (events.js:86:13)
+      at Interface.emit (events.js:188:7)
+      at Interface._ttyWrite (readline.js:733:16)
+      at ReadStream.onkeypress (readline.js:120:10)
+      at emitTwo (events.js:106:13)
+      at ReadStream.emit (events.js:194:7)
+      at emitKeys (internal/readline.js:402:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:980:36)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
